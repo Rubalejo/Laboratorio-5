@@ -62,15 +62,33 @@ Proporcionar un método para simplificar un circuito a una forma equivalente est
 
 ![image](https://user-images.githubusercontent.com/105680588/177696517-8a57ad9a-dbac-4d6f-82bc-197084c49785.png)
 
+Tabla 5.1. Valores Del Circuito Equivalente de Thévenin
+
+Tabla 5.2. Comprobación del Teorema de Thévenin.
 
 
+**EJERCICIO:**
 
+![image](https://user-images.githubusercontent.com/105680588/177697779-e05ffdbd-7a82-4f7b-8878-dec4d29bfd4e.png)
 
+![image](https://user-images.githubusercontent.com/105680588/177698397-4423094b-828e-4833-a300-6fc4903e68a3.png)
 
+![image](https://user-images.githubusercontent.com/105680588/177697275-6baa3218-99e4-4066-9405-29cd570b136a.png)
 
+![image](https://user-images.githubusercontent.com/105680588/177697313-e80dc8a9-8661-4935-9909-ac901abd3950.png)
 
+![image](https://user-images.githubusercontent.com/105680588/177697338-e8286bcc-9ec2-470a-b51e-c297cda842bc.png)
 
+![image](https://user-images.githubusercontent.com/105680588/177697357-cc2b25ef-6fbd-4dfd-b825-eceaa8a30d2f.png)
 
+**5.5. Video:**
 
+**5.6. Conclusiones:**
 
+Se determinó con el análisis experimental que el Teorema de Thévenin en un circuito resistivo. En la teoría de circuitos eléctricos, el teorema de Thévenin establece que si una parte de un circuito eléctrico lineal está comprendida entre dos terminales A y B, esta parte en cuestión puede sustituirse por un circuito equivalente que esté constituido únicamente por un generador de tensión en serie con una resistencia.
 
+**5.7. Bibliografia:**
+
+Latam, M. (2020, February 21). Teorema de Thévenin y Norton. Mecatrónica LATAM. https://www.mecatronicalatam.com/es/tutoriales/teoria/teorema-de-thevenin-y-norton/
+
+Teorema de Thevenin – Análisis de circuitos eléctricos. (2019, November 10). dademuchconnection. https://dademuch.com/2019/11/10/teorema-de-thevenin-analisis-de-circuitos-electricos/
