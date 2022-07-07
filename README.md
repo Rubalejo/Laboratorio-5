@@ -14,13 +14,27 @@ Comprobar experimentalmente el teorema de Thévenin en un circuito resistivo.
 
 **OBJETIVO GENERAL:**
 
-
+Proporcionar un método para simplificar un circuito a una forma equivalente estándar.
 
 **OBJETIVO ESPECIFICO:**
 
+*Aplicar el teorema de Thevenin para simplificar un circuito para su análisis
+
+*Describir la forma de un circuito equivalente de Thevenin
+
+*Obtener la fuente de voltaje equivalente de Thevenin
+
+*Obtener la resistencia equivalente de Thevenin
+
 **5.2 MARCO TEORICO**
 
-5.3 MATERIAL Y EQUIPO REQUERIDO 
+![image](https://user-images.githubusercontent.com/105680588/177696787-31084132-36cf-4005-859e-66fe38900505.png)
+
+![image](https://user-images.githubusercontent.com/105680588/177696813-339ed762-0027-4c17-889f-fb5860db3139.png)
+
+![image](https://user-images.githubusercontent.com/105680588/177696829-8c863b0d-73e8-4f76-b979-b78e37242cb2.png)
+
+**5.3 MATERIAL Y EQUIPO REQUERIDO**
 
 ![image](https://user-images.githubusercontent.com/105680588/177693189-921ff16b-01e0-4d19-ad6f-5393e15af299.png)
 
@@ -45,6 +59,8 @@ Comprobar experimentalmente el teorema de Thévenin en un circuito resistivo.
 ![image](https://user-images.githubusercontent.com/105680588/177695479-e283b2b6-0021-425e-bf45-6f4bfa684c41.png)
 
 **5.4.5. Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.**
+
+![image](https://user-images.githubusercontent.com/105680588/177696517-8a57ad9a-dbac-4d6f-82bc-197084c49785.png)
 
 
 
