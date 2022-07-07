@@ -2,9 +2,7 @@
 
 **Integrantes:** Altamirano Ricardo, Novoa Jorge, Bustos Ruben
 
-**Nrc:** 
-
-**Ingeniero:** Aululema Darwin
+**Nrc:** 7318
 
 **PRÁCTICA No. 5 TEOREMA DE THÉVENIN**
 
@@ -82,6 +80,8 @@ Tabla 5.2. Comprobación del Teorema de Thévenin.
 ![image](https://user-images.githubusercontent.com/105680588/177697357-cc2b25ef-6fbd-4dfd-b825-eceaa8a30d2f.png)
 
 **5.5. Video:**
+
+https://www.youtube.com/watch?v=l7nYBrgWX0I&ab_channel=RubenBustos
 
 **5.6. Conclusiones:**
 
