@@ -48,22 +48,31 @@ Proporcionar un método para simplificar un circuito a una forma equivalente est
 
 ![image](https://user-images.githubusercontent.com/105680588/177693790-160fab2c-b691-4e81-8f97-dbcf2a31aa79.png)
 
+![image](https://user-images.githubusercontent.com/105680588/177789593-778c9d98-bd2f-40dc-9dc1-8b31b7c087a5.png)
+
 **5.4.3. Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor medido en la tabla 5.1.**
 
 ![image](https://user-images.githubusercontent.com/105680588/177694840-da8729d5-4641-462b-a60c-8a02fdc88fdb.png)
+
+![image](https://user-images.githubusercontent.com/105680588/177789668-a3bb435e-3cad-4732-ab48-9f1d2c07862e.png)
 
 **5.4.4. Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito abierto resultante mida la resistencia equivalente. Anote el valor medido en la tabla 5.1**
 
 ![image](https://user-images.githubusercontent.com/105680588/177695479-e283b2b6-0021-425e-bf45-6f4bfa684c41.png)
 
+![image](https://user-images.githubusercontent.com/105680588/177789767-cce533d3-893f-45b4-8cbd-0fedff622558.png)
+
 **5.4.5. Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.**
 
 ![image](https://user-images.githubusercontent.com/105680588/177696517-8a57ad9a-dbac-4d6f-82bc-197084c49785.png)
 
-Tabla 5.1. Valores Del Circuito Equivalente de Thévenin
+![image](https://user-images.githubusercontent.com/105680588/177789846-b98b6587-8023-47b9-8a59-535ad0c6eca2.png)
 
-Tabla 5.2. Comprobación del Teorema de Thévenin.
+**Tabla 5.1. Valores Del Circuito Equivalente de Thévenin**
 
+![image](https://user-images.githubusercontent.com/105680588/177791308-3a54727e-c48a-4a72-b3bf-cc3919726a50.png)
+
+**Tabla 5.2. Comprobación del Teorema de Thévenin.**
 
 **EJERCICIO:**
 
